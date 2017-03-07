@@ -8,7 +8,7 @@ A creative spin on the trendy split screen layout. This responsive layout is mad
 Read the License & Terms of Use [here](http://xopixel.com/terms-licensing/)
 
 ## Credits
-- [Images - Death To Stock Photo](http://deathtothestockphoto.com/)
+- Images by [Death To Stock Photo](http://deathtothestockphoto.com/)
 - Pacifico Font by [Google Fonts](https://fonts.google.com/)
 - Rock Salt Font by [Google Fonts](https://fonts.google.com/)
 
