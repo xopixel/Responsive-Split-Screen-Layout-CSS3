@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Rock+Salt');
+
+html, body, section {
+    height: 100%;
+}
+
+body {
+    color: #fff;
+    text-align: center;
+}
+
+.xop-container {
+    display: flex;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.xop-left {
+    background: linear-gradient(rgba(0,0,0,0.85), rgba(255,255,255,0.10)),
+        url(../images/city.jpg);
+    background-size: cover;
+    background-position: center;
+    flex: 1;
+    padding: 1rem;
+    transition: all .2s ease-in-out;
+}
+
+.xop-right {
+    background: linear-gradient(rgba(0,0,0,0.85), rgba(164,222,102, 0.10)),
+        url(../images/country.jpg);
+        background-size: cover;
+        background-position: center;
+    flex: 1;
+    padding: 1rem;
+    transition: all .2s ease-in-out;
+}
+
+.xop-left:hover, .xop-right:hover {
+    transform: scale(0.95);
+}
+
+.xop-left h1 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 6rem;
+}
+
+.xop-right h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 6rem;
+}
+
+.xop-button {
+    border-radius: 30px;
+    color: #fff;
+    background-color: #fcad26;
+    padding: 1.5%;
+    margin: 0 2%;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: all 0.3s;
+    width: 150px;
+}
+
+.xop-button:hover {
+    background: #fcc567;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
