@@ -2,7 +2,7 @@
 A creative spin on the trendy split screen layout. This responsive layout is made with the latest flexbox techniques and simple CSS3 animation.
 
 [Read the article](http://xopixel.com/responsive-split-screen-layout-css3/) on XO PIXEL
-& [View the demo](#)
+& [View the demo](http://xopixel.com/demo/Responsive%20Split-Screen%20Layout%20CSS3/)
 
 ## License
 Read the License & Terms of Use [here](http://xopixel.com/terms-licensing/)
