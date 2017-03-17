@@ -5,7 +5,7 @@ A creative spin on the trendy split screen layout. This responsive layout is mad
 & [View the demo](http://xopixel.com/demo/Responsive%20Split-Screen%20Layout%20CSS3/)
 
 ## License
-Read the License & Terms of Use [here](http://xopixel.com/terms-licensing/)
+Read the License & Terms of Use [here](http://xopixel.com/terms-of-use/)
 
 ## Credits
 - Images by [Death To Stock Photo](http://deathtothestockphoto.com/)
